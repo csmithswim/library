@@ -1,1 +1,1 @@
-# library
+This express project is done in tandem with the Odin project's NODE curriculum
